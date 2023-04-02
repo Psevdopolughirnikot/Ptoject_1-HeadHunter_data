@@ -8,7 +8,7 @@
 
 ### Описание проекта
 
-Работа происходит с базой данных соискателей с сайта HeadHunter. Ссылка на большой файл https://colab.research.google.com/drive/14sxjyfjtILxI0ppb6eQSGGsDJWh0ANil?usp=sharing
+Работа происходит с базой данных соискателей с сайта HeadHunter. Ссылка на большой файл https://drive.google.com/file/d/1Kb78mAWYKcYlellTGhIjPI-bCcKbGuTn/view?usp=share_link
 
 [к оглавлению](#Оглавление)
 
